@@ -14,4 +14,5 @@ class NavigationViewActivity : AppCompatActivity() {
 
     }
 
+
 }
